@@ -12,7 +12,7 @@
 ---
 
 ### 🧠 About Me  
-Student at SMK SIJA, deeply interested in **web development**, **cybersecurity**, and **cloud tech**. I enjoy building clean, functional projects — especially for competitions.
+Student at SMK TELKOM SIDOARJO, at SIJA major, deeply interested in **web development**, **cybersecurity**, and **cloud and linux tech**. I enjoy building clean, functional projects — especially for competitions.
 
 ---
 
