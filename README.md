@@ -19,9 +19,11 @@ Aku sangat menikmati tantangan coding dan selalu berusaha menciptakan karya-kary
 ---
 
 ### 🌐 Connect with Me:
-<p align="center">
-  <a href="https://www.instagram.com/ezzarforschool/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-</p>
+<picture align='center'>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -49,9 +51,3 @@ Aku sangat menikmati tantangan coding dan selalu berusaha menciptakan karya-kary
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ezzarw&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
-</picture>
