@@ -19,7 +19,6 @@ Student at SMK TELKOM SIDOARJO, at SIJA major, deeply interested in **web develo
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezzarw&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzarw&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzarw&layout=compact&theme=tokyonight" height="150" />
 </p>
 
