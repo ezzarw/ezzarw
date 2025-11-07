@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Aliezzar?label=Follow%20Me&style=social" />
-  <img src="https://img.shields.io/github/stars/Aliezzar?style=social" />
+  <img src="https://img.shields.io/github/followers/ezzarw?label=Follow%20Me&style=social" />
+  <img src="https://img.shields.io/github/stars/ezzarw?style=social" />
 </p>
 
 ---
@@ -20,16 +20,16 @@ Aku sangat menikmati tantangan coding dan selalu berusaha menciptakan karya-kary
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://www.instagram.com/aliezzar._/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/ezzarforschool/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
 
 ### ⚡ GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliezzar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliezzar&theme=tokyonight" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliezzar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezzarw&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzarw&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzarw&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -46,17 +46,11 @@ Aku sangat menikmati tantangan coding dan selalu berusaha menciptakan karya-kary
 
 ---
 
-### 🚀 My Latest Project:
-Check out my latest project for a web design competition:
-[Invofest Competition Project](https://github.com/Aliezzar/invofest-compe)
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aliezzar&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ezzarw&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
 
-  ![Snake animation](https://raw.githubusercontent.com/Aliezzar/Aliezzar/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake-dark.svg)
 </p>
