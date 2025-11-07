@@ -20,9 +20,9 @@ Aku sangat menikmati tantangan coding dan selalu berusaha menciptakan karya-kary
 
 ### 🌐 Connect with Me:
 <picture align='center'>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
+  <source align='center' media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake-dark.svg">
+  <source align='center' media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
+  <img aling='center' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
