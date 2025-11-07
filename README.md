@@ -50,7 +50,8 @@ Aku sangat menikmati tantangan coding dan selalu berusaha menciptakan karya-kary
   <img src="https://komarev.com/ghpvc/?username=ezzarw&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-
-  ![Snake animation](https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake-dark.svg)
-</p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ezzarw/ezzarw/output/github-contribution-grid-snake.svg">
+</picture>
