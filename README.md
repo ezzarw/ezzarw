@@ -133,15 +133,6 @@ fun_fact: "I use Arch btw 🐧"
 
 ---
 
-### 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-⚡ 24 commits pushed to <b>ezzarw/neuroom</b> (June 2026)
-🚀 2 PRs merged on <b>ezzarw/neuroom</b>
-<!--END_SECTION:activity-->
-
----
-
 ### 📫 Let's Connect!
 
 <p align="center">
