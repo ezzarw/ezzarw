@@ -6,7 +6,6 @@
 </p>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UC5CYIzWl_8Ha0O_riFSrGBQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/ezzarforschool/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://id.linkedin.com/in/aliezzar-wijaya-7a9a56356"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ezzarw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -136,7 +135,6 @@ fun_fact: "I use Arch btw 🐧"
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC5CYIzWl_8Ha0O_riFSrGBQ"><img src="https://img.shields.io/badge/YouTube-706_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/ezzarforschool/"><img src="https://img.shields.io/badge/Instagram-%40ezzarforschool-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/ezzarw"><img src="https://img.shields.io/badge/GitHub-ezzarw-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
